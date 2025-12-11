@@ -1,0 +1,10 @@
+# Config map for dataset
+path: C:\Users\Zephyr\Documents\gesture_detection\dataset
+train: train
+val: test
+
+names:
+  0: thumbsup
+  1: thumbsdown
+  2: thankyou
+  3: livelong
