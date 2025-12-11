@@ -7,4 +7,6 @@ runs/
 test.cache
 train.cache
 
+# Dependencies
 .venv
+yolo11n.pt
