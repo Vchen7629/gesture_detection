@@ -8,7 +8,7 @@ from pathlib import Path
 
 def main():
     # Get the project root and labelImg directory
-    project_root = Path(__file__).parent
+    project_root = Path(__file__).parent.parent
     labelimg_dir = project_root / "labelImg"
     resources_file = labelimg_dir / "libs" / "resources.py"
     qrc_file = labelimg_dir / "resources.qrc"
