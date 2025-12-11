@@ -1,0 +1,10 @@
+# Dataset files
+dataset/test/
+dataset/train/
+
+# training output files
+runs/
+test.cache
+train.cache
+
+.venv
